@@ -1,3 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+  font-size: 16px/24px;
+  background-color: #e1e1e1;
+}
+
